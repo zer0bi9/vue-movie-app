@@ -1,5 +1,5 @@
 # Vue3 템플릿 with Webpack
-
+- 강의 내용 따라하며 만든 vue sample project
 ## Versions
 
 - [Default](https://github.com/ParkYoungWoong/vue3-webpack-template/tree/master)<br>
